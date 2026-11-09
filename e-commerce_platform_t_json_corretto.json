@@ -1,0 +1,218 @@
+/**
+* Collection CUSTOMER
+*/
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "firstname",
+      "lastname",
+      "phone",
+      "shipping_address"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "firstname": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "lastname": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "email_address": {
+        "bsonType": "string"
+      },
+      "phone": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "shipping_address": {
+        "bsonType": "array",
+        "minItems": 1,
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "type",
+            "street",
+            "city",
+            "zipcode"
+          ],
+          "properties": {
+            "type": {
+              "bsonType": "string",
+              "minLength": 1
+            },
+            "street": {
+              "bsonType": "string",
+              "minLength": 1
+            },
+            "city": {
+              "bsonType": "string",
+              "minLength": 1
+            },
+            "zipcode": {
+              "bsonType": "string",
+              "minLength": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+/**
+* Collection PRODUCT
+*/
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "name",
+      "category",
+      "price",
+      "stock"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "name": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "category": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "price": {
+        "bsonType": "integer"
+      },
+      "stock": {
+        "bsonType": "integer"
+      }
+    }
+  }
+}
+
+/**
+* Collection ORDER
+*/
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "date",
+      "status",
+      "total",
+      "payment",
+      "CUSTOMER",
+      "PRODUCT"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "date": {
+        "bsonType": "date"
+      },
+      "status": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "total": {
+        "bsonType": "integer"
+      },
+      "payment": {
+        "bsonType": "object",
+        "required": [
+          "method",
+          "status"
+        ],
+        "properties": {
+          "method": {
+            "bsonType": "string",
+            "minLength": 1
+          },
+          "status": {
+            "bsonType": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "CUSTOMER": {
+        "bsonType": "object",
+        "required": [
+          "cid",
+          "firstname",
+          "lastname",
+          "phone"
+        ],
+        "properties": {
+          "cid": {
+            "bsonType": "string",
+            "minLength": 1
+          },
+          "firstname": {
+            "bsonType": "string",
+            "minLength": 1
+          },
+          "lastname": {
+            "bsonType": "string",
+            "minLength": 1
+          },
+          "phone": {
+            "bsonType": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "PRODUCT": {
+        "bsonType": "array",
+        "minItems": 1,
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "pid",
+            "name",
+            "price",
+            "INCLUDE"
+          ],
+          "properties": {
+            "pid": {
+              "bsonType": "string",
+              "minLength": 1
+            },
+            "name": {
+              "bsonType": "string",
+              "minLength": 1
+            },
+            "price": {
+              "bsonType": "integer"
+            },
+            "INCLUDE": {
+              "bsonType": "object",
+              "required": [
+                "ordered_quantity"
+              ],
+              "properties": {
+                "ordered_quantity": {
+                  "bsonType": "integer"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "_id": "12f044d2-377e-4e52-bd99-c3190267adbe",
+    "surname": "Bosio",
+    "birthdate": "2001-12-10",
+    "attended_courses": [
+        "Basi di Dati",
+        "Informatica"
+    ],
+    "contacts": {
+        "address": "Via Ajello, 858 Piano 9",
+        "phone_numbers": [
+            "serie",
+            "sicurezza"
+        ],
+        "email": "tmalpighi@example.com"
+    }
+}

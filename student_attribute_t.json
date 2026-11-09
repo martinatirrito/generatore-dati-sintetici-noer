@@ -1,0 +1,56 @@
+/**
+* Collection STUDENT
+*/
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "surname",
+      "contacts"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "surname": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "birthdate": {
+        "bsonType": "date"
+      },
+      "attended_courses": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "string"
+        }
+      },
+      "contacts": {
+        "bsonType": "object",
+        "required": [
+          "address",
+          "phone_numbers"
+        ],
+        "properties": {
+          "address": {
+            "bsonType": "string",
+            "minLength": 1
+          },
+          "phone_numbers": {
+            "bsonType": "array",
+            "minItems": 1,
+            "items": {
+              "bsonType": "string"
+            }
+          },
+          "email": {
+            "bsonType": "string"
+          }
+        }
+      }
+    }
+  }
+}
+

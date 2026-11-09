@@ -1,0 +1,702 @@
+[
+    {
+        "_id": "7b89f6f1-935b-4556-978d-1e464a07c185",
+        "name": "Caffè espresso con aromatizzanti",
+        "category": "metà",
+        "price": 139,
+        "stock": 40
+    },
+    {
+        "_id": "e57cbbb4-1658-4ffd-9b13-d819dfe26667",
+        "name": "Scarpe da ginnastica",
+        "category": "caso",
+        "price": 593,
+        "stock": 42
+    },
+    {
+        "_id": "786a97ce-4b4b-4186-b1ac-6d279564d951",
+        "name": "T-shirt in cotone",
+        "category": "piangere",
+        "price": 484,
+        "stock": 36
+    },
+    {
+        "_id": "5576ba83-db07-4b4b-a7b5-897154eb7511",
+        "name": "Caffè espresso con aromatizzanti",
+        "category": "attento",
+        "price": 443,
+        "stock": 31
+    },
+    {
+        "_id": "0cb533d0-42f5-4bb1-8be9-5e4874748492",
+        "name": "Sedia ergonomiche",
+        "category": "molto",
+        "price": 352,
+        "stock": 17
+    },
+    {
+        "_id": "88ecfa08-d69b-4259-9b45-3563bfdb54a3",
+        "name": "Bici da mountain",
+        "category": "attraversare",
+        "price": 338,
+        "stock": 46
+    },
+    {
+        "_id": "143d8a9f-c27e-4d4c-8a66-8a57d0dbbf5f",
+        "name": "Bici da mountain",
+        "category": "festa",
+        "price": 44,
+        "stock": 27
+    },
+    {
+        "_id": "80e8381b-8766-48ef-b004-76a0e7fc68b4",
+        "name": "Vestito in lino",
+        "category": "basso",
+        "price": 638,
+        "stock": 11
+    },
+    {
+        "_id": "c9de33ad-8ba8-4b64-9065-6f486e88069e",
+        "name": "Tela di panno",
+        "category": "vita",
+        "price": 399,
+        "stock": 21
+    },
+    {
+        "_id": "e28dbcc9-1ea0-42a4-aa48-571bdf7cad57",
+        "name": "Scarpe da ginnastica",
+        "category": "maniera",
+        "price": 782,
+        "stock": 21
+    },
+    {
+        "_id": "513cb0a2-32aa-460f-9668-c947828feea7",
+        "name": "Bici da mountain",
+        "category": "badare",
+        "price": 682,
+        "stock": 34
+    },
+    {
+        "_id": "364c92f6-c0ee-417e-853f-ec801cbb28ba",
+        "name": "Sedia ergonomiche",
+        "category": "fermo",
+        "price": 505,
+        "stock": 4
+    },
+    {
+        "_id": "ff84f5bd-4e39-4446-bbdc-461b8539ac3c",
+        "name": "Sedia ergonomiche",
+        "category": "chiudere",
+        "price": 284,
+        "stock": 23
+    },
+    {
+        "_id": "57b64b7a-12f5-403d-8fdc-4e9b8380e2f2",
+        "name": "Scarpe da ginnastica",
+        "category": "puro",
+        "price": 124,
+        "stock": 29
+    },
+    {
+        "_id": "ba154b7d-9a1a-4965-a1d4-4546eb9f67de",
+        "name": "Bici da mountain",
+        "category": "comunicazione",
+        "price": 109,
+        "stock": 32
+    },
+    {
+        "_id": "7b9ac9d9-ca52-4575-9915-4e4a24ebd743",
+        "name": "Smartphone 5G",
+        "category": "pianura",
+        "price": 35,
+        "stock": 33
+    },
+    {
+        "_id": "258e5984-a2a0-4b6c-b177-d1c6db62f607",
+        "name": "Bici da mountain",
+        "category": "mantenere",
+        "price": 497,
+        "stock": 7
+    },
+    {
+        "_id": "bdff2f21-3b49-429e-afb4-d46a39abb885",
+        "name": "Vestito in lino",
+        "category": "marito",
+        "price": 603,
+        "stock": 48
+    },
+    {
+        "_id": "4ec8ae05-c47e-4dac-94de-d290d6656945",
+        "name": "Zaino impermeabile",
+        "category": "infine",
+        "price": 108,
+        "stock": 29
+    },
+    {
+        "_id": "5e5d2c17-167e-4b6a-bbe6-685bc6e7f326",
+        "name": "Telecamera di fascia alta",
+        "category": "avanti",
+        "price": 568,
+        "stock": 44
+    },
+    {
+        "_id": "5647ad54-5de8-4a8a-a7ef-679930479a1a",
+        "name": "Sedia ergonomiche",
+        "category": "ora",
+        "price": 698,
+        "stock": 36
+    },
+    {
+        "_id": "bbfc71d6-8e4a-4608-bbaf-085f4f2c9589",
+        "name": "Smartphone 5G",
+        "category": "desiderare",
+        "price": 397,
+        "stock": 16
+    },
+    {
+        "_id": "f26583fc-1373-43d2-a158-07e8b2618c3b",
+        "name": "Telecamera di fascia alta",
+        "category": "gioia",
+        "price": 132,
+        "stock": 48
+    },
+    {
+        "_id": "7570c36d-39ae-4599-b3c5-7281d2c507ef",
+        "name": "Fotocamera action",
+        "category": "moderno",
+        "price": 658,
+        "stock": 15
+    },
+    {
+        "_id": "098bbef5-2f03-43d0-8345-895ce399b523",
+        "name": "Vestito in lino",
+        "category": "capire",
+        "price": 546,
+        "stock": 38
+    },
+    {
+        "_id": "f402979f-6997-43eb-a61d-d50376f630bf",
+        "name": "Purtroppo per donne",
+        "category": "impedire",
+        "price": 568,
+        "stock": 8
+    },
+    {
+        "_id": "4999f381-bd6d-4188-9f2d-b65245ee9781",
+        "name": "Tela di panno",
+        "category": "appunto",
+        "price": 769,
+        "stock": 26
+    },
+    {
+        "_id": "b91d61b0-38c9-4cb0-99ef-c2ec2492db1c",
+        "name": "T-shirt in cotone",
+        "category": "vecchio",
+        "price": 317,
+        "stock": 28
+    },
+    {
+        "_id": "88f0c4e3-7449-4288-adce-7c73836b77a2",
+        "name": "Cappuccio termico",
+        "category": "punto",
+        "price": 264,
+        "stock": 33
+    },
+    {
+        "_id": "fdb1ae4b-6abf-41ec-b895-c0cf2ada3e69",
+        "name": "Sospensore wireless",
+        "category": "contare",
+        "price": 717,
+        "stock": 32
+    },
+    {
+        "_id": "47c2939a-7b85-408a-a632-067ef1316a16",
+        "name": "Set di cucina per bambini",
+        "category": "importanza",
+        "price": 544,
+        "stock": 41
+    },
+    {
+        "_id": "e7b91fed-9722-47f1-addc-9aa2d7c83cc5",
+        "name": "Zaino impermeabile",
+        "category": "occhio",
+        "price": 568,
+        "stock": 27
+    },
+    {
+        "_id": "eb323967-ffa4-4f7e-bdfd-3a0c53b4b13d",
+        "name": "T-shirt in cotone",
+        "category": "sinistro",
+        "price": 587,
+        "stock": 5
+    },
+    {
+        "_id": "a22b7e3a-23ed-4fee-a658-79f884df832e",
+        "name": "Vestito in lino",
+        "category": "faccia",
+        "price": 175,
+        "stock": 5
+    },
+    {
+        "_id": "eecd99d9-db8c-4ee5-bdaa-cae66b47beb8",
+        "name": "Cuscino di memory foam",
+        "category": "sapere",
+        "price": 767,
+        "stock": 41
+    },
+    {
+        "_id": "2f8aa1bf-ffb5-4dda-87c8-964b1098a138",
+        "name": "Caffettiera espresso",
+        "category": "brutto",
+        "price": 468,
+        "stock": 4
+    },
+    {
+        "_id": "100daebd-c427-4924-a120-2057e45a01bd",
+        "name": "Vestito in lino",
+        "category": "vero",
+        "price": 247,
+        "stock": 42
+    },
+    {
+        "_id": "d65e8da4-3607-4355-8a8e-a94834d410e9",
+        "name": "Caffettiera espresso",
+        "category": "prezzo",
+        "price": 150,
+        "stock": 5
+    },
+    {
+        "_id": "0ae79ce9-da47-4ef5-8047-5e56b8ec2900",
+        "name": "Smartphone 5G",
+        "category": "guerra",
+        "price": 482,
+        "stock": 9
+    },
+    {
+        "_id": "ab0711b1-4754-4df3-bfa4-fbd88c3aa394",
+        "name": "Macchina da cucina a gas",
+        "category": "egli",
+        "price": 73,
+        "stock": 27
+    },
+    {
+        "_id": "a77aa54e-858c-4339-93c2-41af73bce942",
+        "name": "Cappuccio termico",
+        "category": "infine",
+        "price": 161,
+        "stock": 49
+    },
+    {
+        "_id": "0bdb65b0-7e5a-40ac-9b68-472a5ee85828",
+        "name": "Bici da mountain",
+        "category": "comodo",
+        "price": 650,
+        "stock": 12
+    },
+    {
+        "_id": "357b6ca5-58f2-4d44-b7ce-2f2212831c47",
+        "name": "T-shirt in cotone",
+        "category": "confronto",
+        "price": 435,
+        "stock": 40
+    },
+    {
+        "_id": "9f787d47-40f2-498a-974e-af4ef558bedc",
+        "name": "Caffettiera espresso",
+        "category": "accompagnare",
+        "price": 774,
+        "stock": 10
+    },
+    {
+        "_id": "89f85fdc-5a26-4e33-a2d5-da5b190a5a06",
+        "name": "Macchina da cucina",
+        "category": "commercio",
+        "price": 755,
+        "stock": 41
+    },
+    {
+        "_id": "b9e0f12a-8d30-4e4a-bdf0-507affe10373",
+        "name": "Vestito in lino",
+        "category": "tu",
+        "price": 788,
+        "stock": 36
+    },
+    {
+        "_id": "7ac3a721-fd06-4979-b87b-c111b3ecdca2",
+        "name": "Macchina da cucina",
+        "category": "sistema",
+        "price": 113,
+        "stock": 17
+    },
+    {
+        "_id": "2027448c-b109-4811-a9bc-0af6898457c6",
+        "name": "Purtroppo per donne",
+        "category": "importare",
+        "price": 708,
+        "stock": 22
+    },
+    {
+        "_id": "417992fa-986e-4db7-9245-8e506a4e76a4",
+        "name": "Cappuccio termico",
+        "category": "attendere",
+        "price": 20,
+        "stock": 35
+    },
+    {
+        "_id": "0c93b60b-1bce-4b76-8b0c-8b2a93c658ae",
+        "name": "Caffettiera espresso",
+        "category": "sole",
+        "price": 255,
+        "stock": 42
+    },
+    {
+        "_id": "9c1e01da-37d3-4cd2-880f-042395355037",
+        "name": "Fototessera personalizzata",
+        "category": "accendere",
+        "price": 85,
+        "stock": 28
+    },
+    {
+        "_id": "051c0571-e5dc-493c-b5ee-738ff2c75496",
+        "name": "Smartphone 5G",
+        "category": "allora",
+        "price": 648,
+        "stock": 14
+    },
+    {
+        "_id": "579f8a30-b7a9-4656-93c3-d9045a9f6b73",
+        "name": "Cuscino elettrostatico",
+        "category": "mancare",
+        "price": 450,
+        "stock": 3
+    },
+    {
+        "_id": "6744418c-28db-47dc-9899-73930b5bb0e9",
+        "name": "Set di kit per la cura della pelle",
+        "category": "estate",
+        "price": 565,
+        "stock": 16
+    },
+    {
+        "_id": "b95c34e0-e875-49d1-83ec-55f27cc17da9",
+        "name": "Smartphone 5G",
+        "category": "inglese",
+        "price": 93,
+        "stock": 27
+    },
+    {
+        "_id": "681811be-7116-4098-b8bb-2932093fda7e",
+        "name": "Macchina da cucina",
+        "category": "signora",
+        "price": 479,
+        "stock": 43
+    },
+    {
+        "_id": "4a0b8144-7001-4530-b639-c71b78ea894d",
+        "name": "Fotocamera action",
+        "category": "prova",
+        "price": 709,
+        "stock": 6
+    },
+    {
+        "_id": "19591345-1f70-45ae-9ccf-010fb0cba3d3",
+        "name": "Scarpe da ginnastica",
+        "category": "capace",
+        "price": 547,
+        "stock": 25
+    },
+    {
+        "_id": "cf95d915-427e-4a1c-bebd-8706cb3a6091",
+        "name": "Cuscino di memory foam",
+        "category": "insistere",
+        "price": 654,
+        "stock": 41
+    },
+    {
+        "_id": "c9f28b0c-b933-449e-84cb-bd65886ec00b",
+        "name": "Bici da mountain",
+        "category": "teatro",
+        "price": 494,
+        "stock": 34
+    },
+    {
+        "_id": "11c9ff9c-3bb3-4b03-913c-5c000ce91265",
+        "name": "Telecamera di fascia alta",
+        "category": "impressione",
+        "price": 450,
+        "stock": 24
+    },
+    {
+        "_id": "3d8e2348-d991-4f04-b18f-84d20f5d8ce4",
+        "name": "T-shirt in cotone",
+        "category": "foglia",
+        "price": 472,
+        "stock": 5
+    },
+    {
+        "_id": "857b96cf-04b2-4c0f-953a-7c8dc436a6d0",
+        "name": "Zaino impermeabile",
+        "category": "da",
+        "price": 650,
+        "stock": 18
+    },
+    {
+        "_id": "9d998c0c-1fdb-40a2-95f4-1ed69c3b1deb",
+        "name": "Purtroppo per donne",
+        "category": "davanti",
+        "price": 782,
+        "stock": 14
+    },
+    {
+        "_id": "e2e053e3-790c-4021-b27f-64c1795c1e1f",
+        "name": "Caffettiera espresso",
+        "category": "guerra",
+        "price": 253,
+        "stock": 32
+    },
+    {
+        "_id": "290d5111-ffc4-48f4-be57-795ecf40dbf3",
+        "name": "Sospensore wireless",
+        "category": "ritenere",
+        "price": 731,
+        "stock": 49
+    },
+    {
+        "_id": "54d94c59-af7b-430a-9842-ad95570b3f17",
+        "name": "Sospensore wireless",
+        "category": "cercare",
+        "price": 284,
+        "stock": 16
+    },
+    {
+        "_id": "08a3da64-9d68-4779-8780-385ef522d740",
+        "name": "Set di cucina per bambini",
+        "category": "attimo",
+        "price": 459,
+        "stock": 19
+    },
+    {
+        "_id": "e8bd7fcd-442e-4ab6-9680-41ce22336743",
+        "name": "Zaino impermeabile",
+        "category": "esso",
+        "price": 366,
+        "stock": 50
+    },
+    {
+        "_id": "c857e4ea-7b85-4408-beb7-fb3c9026c2bb",
+        "name": "Fotocamera action",
+        "category": "risultato",
+        "price": 198,
+        "stock": 34
+    },
+    {
+        "_id": "4ca76ed5-c98c-44e8-81df-81aece1827e3",
+        "name": "Zaino impermeabile",
+        "category": "abito",
+        "price": 739,
+        "stock": 33
+    },
+    {
+        "_id": "04274516-bea9-4508-851a-53735dd44c57",
+        "name": "Macchina da cucina",
+        "category": "pianura",
+        "price": 78,
+        "stock": 17
+    },
+    {
+        "_id": "7cb72049-aec6-472e-a0a3-31574268c68d",
+        "name": "Scarpe da ginnastica",
+        "category": "mercato",
+        "price": 123,
+        "stock": 39
+    },
+    {
+        "_id": "50c158be-a6f5-414d-b682-50e44807d578",
+        "name": "Set di kit per la cura della pelle",
+        "category": "favore",
+        "price": 499,
+        "stock": 7
+    },
+    {
+        "_id": "592e175c-9ed6-4a3c-8e96-9c64125385d4",
+        "name": "Macchina da cucina",
+        "category": "mancare",
+        "price": 245,
+        "stock": 45
+    },
+    {
+        "_id": "55deaba4-1470-42e6-9e82-8af910de2fd3",
+        "name": "Macchina da cucina a gas",
+        "category": "ombra",
+        "price": 49,
+        "stock": 43
+    },
+    {
+        "_id": "1e28ed39-4c3e-4a1f-b22f-c12bdc9821fb",
+        "name": "Set di cucina per bambini",
+        "category": "costituire",
+        "price": 778,
+        "stock": 45
+    },
+    {
+        "_id": "5e2d60c5-17c9-4138-a502-9054ccf159f0",
+        "name": "Caffè espresso con aromatizzanti",
+        "category": "forma",
+        "price": 90,
+        "stock": 28
+    },
+    {
+        "_id": "02f108de-3217-4a2e-b56f-2effe8938882",
+        "name": "Sedia ergonomiche",
+        "category": "messa",
+        "price": 568,
+        "stock": 36
+    },
+    {
+        "_id": "f312419e-362a-4b89-8a3c-00ad89134d5c",
+        "name": "Telecamera di fascia alta",
+        "category": "vario",
+        "price": 585,
+        "stock": 34
+    },
+    {
+        "_id": "858bc67c-027c-4c68-a713-46f71e60cc05",
+        "name": "Cappuccio termico",
+        "category": "sottile",
+        "price": 607,
+        "stock": 32
+    },
+    {
+        "_id": "0fce5402-dff8-4650-a00c-5f1cca69e669",
+        "name": "Libro di storia",
+        "category": "desiderare",
+        "price": 327,
+        "stock": 43
+    },
+    {
+        "_id": "341fad30-6a4c-499c-bbac-c6c565a7baa4",
+        "name": "Macchina da cucina a gas",
+        "category": "misura",
+        "price": 566,
+        "stock": 18
+    },
+    {
+        "_id": "7e9a5a29-52ce-4929-a716-40f4557ab1a4",
+        "name": "Tela di panno",
+        "category": "giù",
+        "price": 443,
+        "stock": 44
+    },
+    {
+        "_id": "ef546141-fbf0-4d3f-8c03-897ee55d45bf",
+        "name": "Cappuccio termico",
+        "category": "colpa",
+        "price": 263,
+        "stock": 30
+    },
+    {
+        "_id": "05b0ffb1-36f0-4fb7-9d22-676afbe4c8d5",
+        "name": "Cuscino di memory foam",
+        "category": "spesa",
+        "price": 619,
+        "stock": 35
+    },
+    {
+        "_id": "82b54e65-1484-49d0-b75f-9f0a53da2eb4",
+        "name": "Cuscino elettrostatico",
+        "category": "fermare",
+        "price": 32,
+        "stock": 40
+    },
+    {
+        "_id": "a4994b68-c574-4f81-b740-fafd110d077d",
+        "name": "Fotocamera action",
+        "category": "altro",
+        "price": 152,
+        "stock": 42
+    },
+    {
+        "_id": "10fec988-be45-44cf-9dd8-796b09a88e47",
+        "name": "Smartphone 5G",
+        "category": "triste",
+        "price": 353,
+        "stock": 3
+    },
+    {
+        "_id": "f0b30f9f-e04c-4ca4-995e-55e66675e1c5",
+        "name": "Telecamera di fascia alta",
+        "category": "poiché",
+        "price": 350,
+        "stock": 39
+    },
+    {
+        "_id": "9f21d2ac-8f39-4ec3-9e15-15fcd7b0432a",
+        "name": "Libro di storia",
+        "category": "crisi",
+        "price": 663,
+        "stock": 44
+    },
+    {
+        "_id": "e8bd6c02-ab39-4f77-93ad-404d1b714ddd",
+        "name": "Purtroppo per donne",
+        "category": "assai",
+        "price": 370,
+        "stock": 29
+    },
+    {
+        "_id": "861ac49d-9a42-429a-9a09-e48710d7fcf3",
+        "name": "Cuscino di memory foam",
+        "category": "morale",
+        "price": 172,
+        "stock": 12
+    },
+    {
+        "_id": "2ef8b528-3f86-47ea-bf18-5c1c74573a2d",
+        "name": "Fototessera personalizzata",
+        "category": "montagna",
+        "price": 585,
+        "stock": 18
+    },
+    {
+        "_id": "5c447761-91f3-410f-bb57-8808bad3c942",
+        "name": "Set di cucina per bambini",
+        "category": "montagna",
+        "price": 455,
+        "stock": 38
+    },
+    {
+        "_id": "586336fd-5313-4d80-afdf-67c6dc3cc2e4",
+        "name": "Macchina da cucina a gas",
+        "category": "organizzare",
+        "price": 46,
+        "stock": 42
+    },
+    {
+        "_id": "00955d40-57ed-4e8d-bea6-724d1d7ca0d3",
+        "name": "Sedia ergonomiche",
+        "category": "giustizia",
+        "price": 519,
+        "stock": 28
+    },
+    {
+        "_id": "ca917921-a866-4a2e-b9d3-c730ec2ec5dc",
+        "name": "T-shirt in cotone",
+        "category": "comprendere",
+        "price": 737,
+        "stock": 6
+    },
+    {
+        "_id": "4985db28-bef1-46e9-b3e7-1e249f247c7e",
+        "name": "Macchina da cucina",
+        "category": "conseguenza",
+        "price": 746,
+        "stock": 14
+    },
+    {
+        "_id": "bf74e240-1633-4f4c-9690-e3b0985b289c",
+        "name": "Cappuccio termico",
+        "category": "notizia",
+        "price": 772,
+        "stock": 16
+    }
+]

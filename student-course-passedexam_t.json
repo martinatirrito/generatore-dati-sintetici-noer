@@ -1,0 +1,120 @@
+/**
+* Collection STUDENT
+*/
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "surname"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "surname": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "COURSE": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "required": [
+            "CID",
+            "cname",
+            "PASSED_EXAM"
+          ],
+          "properties": {
+            "CID": {
+              "bsonType": "string",
+              "minLength": 1
+            },
+            "cname": {
+              "bsonType": "string",
+              "minLength": 1
+            },
+            "PASSED_EXAM": {
+              "bsonType": "object",
+              "required": [
+                "grade_written_test",
+                "Date",
+                "homework"
+              ],
+              "properties": {
+                "grade_written_test": {
+                  "bsonType": "string",
+                  "minLength": 1
+                },
+                "Date": {
+                  "bsonType": "string",
+                  "minLength": 1
+                },
+                "homework": {
+                  "bsonType": "array",
+                  "minItems": 1,
+                  "items": {
+                    "bsonType": "object",
+                    "required": [
+                      "Topic",
+                      "Grade"
+                    ],
+                    "properties": {
+                      "Topic": {
+                        "bsonType": "string",
+                        "minLength": 1
+                      },
+                      "Grade": {
+                        "bsonType": "string",
+                        "minLength": 1
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+/**
+* Collection COURSE
+*/
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "cname",
+      "subjects"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "cname": {
+        "bsonType": "string",
+        "minLength": 1
+      },
+      "subjects": {
+        "bsonType": "array",
+        "minItems": 1,
+        "items": {
+          "bsonType": "string"
+        }
+      },
+      "prerequisites": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "string"
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,2874 @@
+[
+    {
+        "_id": "720cb181-2a1a-4e27-97cd-5ea347655822",
+        "date": "2026-01-21",
+        "status": "Spedito",
+        "total": 2,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "7ca86ac0-6864-4d91-b814-0d984373c0fc",
+            "firstname": "Durante",
+            "lastname": "Carullo",
+            "phone": "0803283369"
+        },
+        "PRODUCT": [
+            {
+                "pid": "4985db28-bef1-46e9-b3e7-1e249f247c7e",
+                "name": "Cuscino elettrostatico",
+                "price": 488,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "9393f9ca-05c9-440c-a1ec-2e7e5918cf26",
+        "date": "2026-03-21",
+        "status": "In elaborazione",
+        "total": 9,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "c2385282-4a1d-4d30-bbe0-7bc70c92a314",
+            "firstname": "Fredo",
+            "lastname": "Ferrata",
+            "phone": "+39 3773879367"
+        },
+        "PRODUCT": [
+            {
+                "pid": "290d5111-ffc4-48f4-be57-795ecf40dbf3",
+                "name": "Libro di storia",
+                "price": 679,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "810a2935-f24b-4708-a34b-af8eafccb546",
+        "date": "2026-01-25",
+        "status": "Spedito",
+        "total": 8,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "cb61fbb1-dcf6-4014-9282-aeb9715a75cb",
+            "firstname": "Michela",
+            "lastname": "Dallapé",
+            "phone": "+39 0345564902"
+        },
+        "PRODUCT": [
+            {
+                "pid": "143d8a9f-c27e-4d4c-8a66-8a57d0dbbf5f",
+                "name": "Fotocamera action",
+                "price": 643,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "88f0c4e3-7449-4288-adce-7c73836b77a2",
+                "name": "Telecamera di fascia alta",
+                "price": 155,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "7e52e236-51d8-4fa3-af16-9be575ad5b93",
+        "date": "2026-04-20",
+        "status": "Spedito",
+        "total": 39,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "a2d43ef9-bc38-469f-9095-566260d113e7",
+            "firstname": "Eugenia",
+            "lastname": "Boitani",
+            "phone": "3756463879"
+        },
+        "PRODUCT": [
+            {
+                "pid": "e8bd7fcd-442e-4ab6-9680-41ce22336743",
+                "name": "Set di cucina per bambini",
+                "price": 511,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "88ecfa08-d69b-4259-9b45-3563bfdb54a3",
+                "name": "Sospensore wireless",
+                "price": 138,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "c6ea5247-8972-416d-bed4-1c93d0bbc1c3",
+        "date": "2026-09-16",
+        "status": "Spedito",
+        "total": 15,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "c2385282-4a1d-4d30-bbe0-7bc70c92a314",
+            "firstname": "Ricciotti",
+            "lastname": "Pacelli",
+            "phone": "0771405457"
+        },
+        "PRODUCT": [
+            {
+                "pid": "681811be-7116-4098-b8bb-2932093fda7e",
+                "name": "Libro di storia",
+                "price": 624,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "1e677398-40b8-45da-8280-c285357ee460",
+        "date": "2026-04-29",
+        "status": "Consegnato",
+        "total": 22,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "09fe8bee-f3f0-4de5-8971-323ad01c7f12",
+            "firstname": "Filippa",
+            "lastname": "Udinese",
+            "phone": "0931801523"
+        },
+        "PRODUCT": [
+            {
+                "pid": "143d8a9f-c27e-4d4c-8a66-8a57d0dbbf5f",
+                "name": "Telecamera di fascia alta",
+                "price": 747,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            },
+            {
+                "pid": "82b54e65-1484-49d0-b75f-9f0a53da2eb4",
+                "name": "Vestito in lino",
+                "price": 170,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "1fd3b5a8-443b-4bc2-81a0-79b564154ca3",
+        "date": "2026-02-26",
+        "status": "Consegnato",
+        "total": 19,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "2b4b6b7b-af34-4c5e-b2b2-9eb9e8bc20f0",
+            "firstname": "Durante",
+            "lastname": "Nosiglia",
+            "phone": "3288662989"
+        },
+        "PRODUCT": [
+            {
+                "pid": "3d8e2348-d991-4f04-b18f-84d20f5d8ce4",
+                "name": "Fototessera personalizzata",
+                "price": 39,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "88ecfa08-d69b-4259-9b45-3563bfdb54a3",
+                "name": "Fotocamera action",
+                "price": 778,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "3ca4f293-8400-44f8-ba44-92ff41dfecf8",
+        "date": "2026-05-10",
+        "status": "Spedito",
+        "total": 22,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "413087ad-3e53-465d-961c-caf3a42fa5ed",
+            "firstname": "Piermaria",
+            "lastname": "Monduzzi",
+            "phone": "+39 3311416980"
+        },
+        "PRODUCT": [
+            {
+                "pid": "0bdb65b0-7e5a-40ac-9b68-472a5ee85828",
+                "name": "Scarpe da ginnastica",
+                "price": 186,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "848fd467-e0b1-42d3-9415-52c7ae10bce5",
+        "date": "2026-07-23",
+        "status": "Consegnato",
+        "total": 46,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "03bb5176-1f04-433f-8322-b6fa3814b0ae",
+            "firstname": "Calcedonio",
+            "lastname": "Giunti",
+            "phone": "375547335"
+        },
+        "PRODUCT": [
+            {
+                "pid": "417992fa-986e-4db7-9245-8e506a4e76a4",
+                "name": "Sospensore wireless",
+                "price": 671,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "bdff2f21-3b49-429e-afb4-d46a39abb885",
+                "name": "Sospensore wireless",
+                "price": 605,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "f4041237-9369-4db4-9f2f-10364b0f0ffd",
+        "date": "2026-07-14",
+        "status": "Spedito",
+        "total": 10,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "4d297724-3af5-47a6-b561-f8ed2269925a",
+            "firstname": "Fabia",
+            "lastname": "Grasso",
+            "phone": "0835609513"
+        },
+        "PRODUCT": [
+            {
+                "pid": "19591345-1f70-45ae-9ccf-010fb0cba3d3",
+                "name": "Libro di storia",
+                "price": 373,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "ff84f5bd-4e39-4446-bbdc-461b8539ac3c",
+                "name": "Caffè espresso con aromatizzanti",
+                "price": 222,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "1578e2b3-7743-41fd-be8c-613e96d11657",
+        "date": "2026-03-12",
+        "status": "In elaborazione",
+        "total": 39,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "f9d243cc-019e-4ab4-9762-609da581286f",
+            "firstname": "Federico",
+            "lastname": "Finotto",
+            "phone": "096101656"
+        },
+        "PRODUCT": [
+            {
+                "pid": "586336fd-5313-4d80-afdf-67c6dc3cc2e4",
+                "name": "Sospensore wireless",
+                "price": 418,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "0b2ef2b9-d98b-416c-a63a-0b052d05cb29",
+        "date": "2026-01-07",
+        "status": "Spedito",
+        "total": 15,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "59f65716-6f00-410b-846b-e422fd7ed3d4",
+            "firstname": "Amedeo",
+            "lastname": "Broggini",
+            "phone": "+39 0362534130"
+        },
+        "PRODUCT": [
+            {
+                "pid": "143d8a9f-c27e-4d4c-8a66-8a57d0dbbf5f",
+                "name": "Caffè espresso con aromatizzanti",
+                "price": 461,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "940cc90e-c2ea-412f-aa44-fbc7b9840ac8",
+        "date": "2026-07-10",
+        "status": "In elaborazione",
+        "total": 16,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "a8bec32a-faf5-41f5-952f-bfdf24e0c1b6",
+            "firstname": "Marcantonio",
+            "lastname": "Mercadante",
+            "phone": "+39 0522498330"
+        },
+        "PRODUCT": [
+            {
+                "pid": "bbfc71d6-8e4a-4608-bbaf-085f4f2c9589",
+                "name": "Cuscino di memory foam",
+                "price": 337,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "05b0ffb1-36f0-4fb7-9d22-676afbe4c8d5",
+                "name": "Caffettiera espresso",
+                "price": 435,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "d9fe5043-4ef9-4b88-a6c0-9600b06f6999",
+        "date": "2026-09-27",
+        "status": "In elaborazione",
+        "total": 20,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "3a4717bc-b235-4fff-bf96-06dbe535b42b",
+            "firstname": "Elisa",
+            "lastname": "Salvemini",
+            "phone": "0809776599"
+        },
+        "PRODUCT": [
+            {
+                "pid": "0ae79ce9-da47-4ef5-8047-5e56b8ec2900",
+                "name": "Set di cucina per bambini",
+                "price": 18,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "407ac81c-24ea-403f-b21d-b6d9e77167b8",
+        "date": "2026-03-08",
+        "status": "Spedito",
+        "total": 38,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "04cd94ea-0c8e-4cae-b00d-c1a186798321",
+            "firstname": "Luigina",
+            "lastname": "Ruffini",
+            "phone": "+39 09627004785"
+        },
+        "PRODUCT": [
+            {
+                "pid": "857b96cf-04b2-4c0f-953a-7c8dc436a6d0",
+                "name": "T-shirt in cotone",
+                "price": 690,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "699513e0-6dc6-467d-98bc-bb2ed3d37f5c",
+        "date": "2026-07-08",
+        "status": "Spedito",
+        "total": 16,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "555b41f4-1c2a-46a9-87f0-44b5225624b9",
+            "firstname": "Silvestro",
+            "lastname": "Totino",
+            "phone": "+39 0342154693"
+        },
+        "PRODUCT": [
+            {
+                "pid": "50c158be-a6f5-414d-b682-50e44807d578",
+                "name": "Smartphone 5G",
+                "price": 681,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "7b89f6f1-935b-4556-978d-1e464a07c185",
+                "name": "Libro di storia",
+                "price": 167,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "b1527136-cdea-4980-87bc-997c25ee8380",
+        "date": "2026-01-10",
+        "status": "Spedito",
+        "total": 14,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "8fb19040-5fb2-4359-b265-18aae30bae73",
+            "firstname": "Marco",
+            "lastname": "Vecoli",
+            "phone": "+39 36152889674"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7cb72049-aec6-472e-a0a3-31574268c68d",
+                "name": "Macchina da cucina",
+                "price": 472,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "82b54e65-1484-49d0-b75f-9f0a53da2eb4",
+                "name": "Caffè espresso con aromatizzanti",
+                "price": 476,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "fba7fe6e-01b6-4409-9fa1-562da0313550",
+        "date": "2026-03-27",
+        "status": "In elaborazione",
+        "total": 16,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "ae06e815-ad28-4e09-9467-392975839712",
+            "firstname": "Alessandra",
+            "lastname": "Antonucci",
+            "phone": "07321656251"
+        },
+        "PRODUCT": [
+            {
+                "pid": "100daebd-c427-4924-a120-2057e45a01bd",
+                "name": "Sospensore wireless",
+                "price": 476,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "70b938af-5265-40df-9f52-ce509159ee2c",
+        "date": "2026-06-12",
+        "status": "In elaborazione",
+        "total": 37,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "1f97478d-5fc3-48db-99c4-9fb965685b0b",
+            "firstname": "Donna",
+            "lastname": "Barese",
+            "phone": "+39 0341228449"
+        },
+        "PRODUCT": [
+            {
+                "pid": "88f0c4e3-7449-4288-adce-7c73836b77a2",
+                "name": "Libro di storia",
+                "price": 409,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "c4b890f5-2c72-44cd-ba1b-596c6fb547fc",
+        "date": "2026-08-15",
+        "status": "Consegnato",
+        "total": 22,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "64942856-7fa1-4e9b-a5f5-4ca91e5d35c2",
+            "firstname": "Telemaco",
+            "lastname": "Interminelli",
+            "phone": "+39 380233820"
+        },
+        "PRODUCT": [
+            {
+                "pid": "290d5111-ffc4-48f4-be57-795ecf40dbf3",
+                "name": "Fototessera personalizzata",
+                "price": 386,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "95da2463-c006-4715-bc45-7f7b01fe609a",
+        "date": "2026-08-24",
+        "status": "Consegnato",
+        "total": 20,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "84bc7311-870c-44dc-8fee-35ba27d1294d",
+            "firstname": "Rosaria",
+            "lastname": "Balbo",
+            "phone": "+39 080222872"
+        },
+        "PRODUCT": [
+            {
+                "pid": "858bc67c-027c-4c68-a713-46f71e60cc05",
+                "name": "Set di cucina per bambini",
+                "price": 209,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "7d701f03-33cd-4d2c-9ecc-780ef15fdea1",
+        "date": "2026-01-31",
+        "status": "Consegnato",
+        "total": 35,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "dcf42e79-cf14-4d16-b9bf-832d02b03607",
+            "firstname": "Gloria",
+            "lastname": "Aporti",
+            "phone": "+39 01999670231"
+        },
+        "PRODUCT": [
+            {
+                "pid": "681811be-7116-4098-b8bb-2932093fda7e",
+                "name": "Bici da mountain",
+                "price": 681,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "0dd46221-8d3f-4bf7-b7ea-9e81b0442ec6",
+        "date": "2026-03-22",
+        "status": "Consegnato",
+        "total": 50,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "93011d76-10ee-4d4b-9cd2-0ebc12bc2c68",
+            "firstname": "Cipriano",
+            "lastname": "Giacconi",
+            "phone": "+39 0731204480"
+        },
+        "PRODUCT": [
+            {
+                "pid": "54d94c59-af7b-430a-9842-ad95570b3f17",
+                "name": "Cuscino elettrostatico",
+                "price": 205,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "8910cf8d-d5df-472e-9bf8-18300d279958",
+        "date": "2026-08-24",
+        "status": "Consegnato",
+        "total": 28,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "42f364b3-4746-4898-b914-6e364fd20c4e",
+            "firstname": "Geronimo",
+            "lastname": "Boldù",
+            "phone": "+39 3770367163"
+        },
+        "PRODUCT": [
+            {
+                "pid": "e57cbbb4-1658-4ffd-9b13-d819dfe26667",
+                "name": "Zaino impermeabile",
+                "price": 132,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "cd258787-04b4-4897-adab-16a67b51ed59",
+        "date": "2026-09-20",
+        "status": "In elaborazione",
+        "total": 35,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "fe51f115-2404-49e9-88ea-e02762fb3d67",
+            "firstname": "Mariana",
+            "lastname": "Gonzaga",
+            "phone": "+39 05141132622"
+        },
+        "PRODUCT": [
+            {
+                "pid": "ff84f5bd-4e39-4446-bbdc-461b8539ac3c",
+                "name": "Purtroppo per donne",
+                "price": 216,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "31abb1f2-a184-48e3-8b06-9330696f24c7",
+        "date": "2026-09-25",
+        "status": "In elaborazione",
+        "total": 49,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "555b41f4-1c2a-46a9-87f0-44b5225624b9",
+            "firstname": "Ermanno",
+            "lastname": "Bosio",
+            "phone": "+39 03572944341"
+        },
+        "PRODUCT": [
+            {
+                "pid": "a4994b68-c574-4f81-b740-fafd110d077d",
+                "name": "Macchina da cucina a gas",
+                "price": 43,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "c4ce3fdb-6759-44e3-92ed-aa3400bac82d",
+        "date": "2026-02-18",
+        "status": "In elaborazione",
+        "total": 27,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "f9d243cc-019e-4ab4-9762-609da581286f",
+            "firstname": "Temistocle",
+            "lastname": "Scandone",
+            "phone": "0774237578"
+        },
+        "PRODUCT": [
+            {
+                "pid": "47c2939a-7b85-408a-a632-067ef1316a16",
+                "name": "Purtroppo per donne",
+                "price": 443,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "097add12-5479-41b3-bfba-c96cd9f4a655",
+        "date": "2026-07-30",
+        "status": "Spedito",
+        "total": 26,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "dcf42e79-cf14-4d16-b9bf-832d02b03607",
+            "firstname": "Marcantonio",
+            "lastname": "Torlonia",
+            "phone": "+39 327263712"
+        },
+        "PRODUCT": [
+            {
+                "pid": "2f8aa1bf-ffb5-4dda-87c8-964b1098a138",
+                "name": "Fotocamera action",
+                "price": 93,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            },
+            {
+                "pid": "861ac49d-9a42-429a-9a09-e48710d7fcf3",
+                "name": "Macchina da cucina a gas",
+                "price": 321,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "90bd1c2d-0eb8-492d-9a65-add123908114",
+        "date": "2026-02-20",
+        "status": "Spedito",
+        "total": 35,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "3a4717bc-b235-4fff-bf96-06dbe535b42b",
+            "firstname": "Giacobbe",
+            "lastname": "Vento",
+            "phone": "0819502326"
+        },
+        "PRODUCT": [
+            {
+                "pid": "00955d40-57ed-4e8d-bea6-724d1d7ca0d3",
+                "name": "Cuscino di memory foam",
+                "price": 226,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "77cb393c-1a79-46eb-96b7-5b56d3077dac",
+        "date": "2026-10-09",
+        "status": "Spedito",
+        "total": 5,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "31c55692-a64b-42d8-9d46-4b7b08190b22",
+            "firstname": "Stefania",
+            "lastname": "Metella",
+            "phone": "3617674944"
+        },
+        "PRODUCT": [
+            {
+                "pid": "e7b91fed-9722-47f1-addc-9aa2d7c83cc5",
+                "name": "Cappuccio termico",
+                "price": 658,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "681811be-7116-4098-b8bb-2932093fda7e",
+                "name": "Smartphone 5G",
+                "price": 326,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "30223461-df84-4b4f-aac2-fc60c4f03d26",
+        "date": "2026-09-19",
+        "status": "Consegnato",
+        "total": 46,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "3d3a59a1-ec4f-4791-a2ed-38bf0804a689",
+            "firstname": "Filippo",
+            "lastname": "Aloisio",
+            "phone": "+39 097412430"
+        },
+        "PRODUCT": [
+            {
+                "pid": "1e28ed39-4c3e-4a1f-b22f-c12bdc9821fb",
+                "name": "Macchina da cucina a gas",
+                "price": 85,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "7b89f6f1-935b-4556-978d-1e464a07c185",
+                "name": "Tela di panno",
+                "price": 49,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "aba5ab42-f46a-4645-8508-60c4d351ba58",
+        "date": "2026-02-01",
+        "status": "Spedito",
+        "total": 21,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "b4cc6d48-eae3-4c84-94c2-0156870e310c",
+            "firstname": "Carmelo",
+            "lastname": "Vergerio",
+            "phone": "+39 057572235"
+        },
+        "PRODUCT": [
+            {
+                "pid": "5c447761-91f3-410f-bb57-8808bad3c942",
+                "name": "Cuscino elettrostatico",
+                "price": 113,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "5e5d2c17-167e-4b6a-bbe6-685bc6e7f326",
+                "name": "T-shirt in cotone",
+                "price": 286,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "b339708a-5239-488b-9113-0f4c82f706f8",
+        "date": "2026-08-18",
+        "status": "Spedito",
+        "total": 50,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "17bd20f1-0962-4ea7-b64f-d564e88a7346",
+            "firstname": "Angelica",
+            "lastname": "Ortolani",
+            "phone": "+39 014114153"
+        },
+        "PRODUCT": [
+            {
+                "pid": "ca917921-a866-4a2e-b9d3-c730ec2ec5dc",
+                "name": "Fotocamera action",
+                "price": 581,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "04a215d6-0893-4d4c-b484-e5350ab9935a",
+        "date": "2026-02-21",
+        "status": "Spedito",
+        "total": 11,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "93011d76-10ee-4d4b-9cd2-0ebc12bc2c68",
+            "firstname": "Tonino",
+            "lastname": "Mantegazza",
+            "phone": "+39 05443311411"
+        },
+        "PRODUCT": [
+            {
+                "pid": "861ac49d-9a42-429a-9a09-e48710d7fcf3",
+                "name": "Purtroppo per donne",
+                "price": 59,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "ef546141-fbf0-4d3f-8c03-897ee55d45bf",
+                "name": "Macchina da cucina a gas",
+                "price": 342,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "31176332-3e91-445d-bdc3-0a28b790e712",
+        "date": "2026-06-21",
+        "status": "Consegnato",
+        "total": 8,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "555b41f4-1c2a-46a9-87f0-44b5225624b9",
+            "firstname": "Benedetto",
+            "lastname": "Tartini",
+            "phone": "0522013539"
+        },
+        "PRODUCT": [
+            {
+                "pid": "2ef8b528-3f86-47ea-bf18-5c1c74573a2d",
+                "name": "Zaino impermeabile",
+                "price": 338,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "89f85fdc-5a26-4e33-a2d5-da5b190a5a06",
+                "name": "Sospensore wireless",
+                "price": 721,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "f1bf2b98-8abb-4ce9-b832-f1693bb37f81",
+        "date": "2026-04-19",
+        "status": "In elaborazione",
+        "total": 47,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "bdb1b56e-9142-42ef-b292-532db5d07aee",
+            "firstname": "Alphons",
+            "lastname": "Nitto",
+            "phone": "3517545127"
+        },
+        "PRODUCT": [
+            {
+                "pid": "861ac49d-9a42-429a-9a09-e48710d7fcf3",
+                "name": "T-shirt in cotone",
+                "price": 388,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "13081379-fff4-497e-b4cd-2d1d539c916c",
+        "date": "2026-01-24",
+        "status": "In elaborazione",
+        "total": 1,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "90727f6e-9b48-4b3e-9d2f-d66ad9791318",
+            "firstname": "Hugo",
+            "lastname": "Vergassola",
+            "phone": "3779217939"
+        },
+        "PRODUCT": [
+            {
+                "pid": "a4994b68-c574-4f81-b740-fafd110d077d",
+                "name": "Set di cucina per bambini",
+                "price": 286,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "81d858a3-fcf5-456c-b60e-46f4c747f9c6",
+        "date": "2026-03-23",
+        "status": "In elaborazione",
+        "total": 17,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "83b88f52-0571-483b-a109-b5bde749eecb",
+            "firstname": "Lara",
+            "lastname": "Druso",
+            "phone": "+39 01255050611"
+        },
+        "PRODUCT": [
+            {
+                "pid": "357b6ca5-58f2-4d44-b7ce-2f2212831c47",
+                "name": "Smartphone 5G",
+                "price": 578,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "32f78a3d-06c6-4b63-8ffa-e295daf08bcf",
+        "date": "2026-07-31",
+        "status": "Consegnato",
+        "total": 30,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "f36a6813-e071-487b-b5c0-99137ea04afa",
+            "firstname": "Martino",
+            "lastname": "Dellucci",
+            "phone": "+39 0925417463"
+        },
+        "PRODUCT": [
+            {
+                "pid": "861ac49d-9a42-429a-9a09-e48710d7fcf3",
+                "name": "Caffè espresso con aromatizzanti",
+                "price": 528,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "4b9c5d67-ceca-45fa-b544-02773b3206f0",
+        "date": "2026-10-04",
+        "status": "Consegnato",
+        "total": 10,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "c432fbd4-99b5-4d58-9306-ca72bab4a4ea",
+            "firstname": "Oreste",
+            "lastname": "Samele",
+            "phone": "086157132"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7cb72049-aec6-472e-a0a3-31574268c68d",
+                "name": "Tela di panno",
+                "price": 469,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "e8bd7fcd-442e-4ab6-9680-41ce22336743",
+                "name": "Cappuccio termico",
+                "price": 137,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "92728554-91b1-4582-986f-64288bd987f5",
+        "date": "2026-07-04",
+        "status": "Consegnato",
+        "total": 26,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "adf7acef-e7fe-438a-8937-e79c4c636732",
+            "firstname": "Elladio",
+            "lastname": "Briccialdi",
+            "phone": "+39 08612314862"
+        },
+        "PRODUCT": [
+            {
+                "pid": "f26583fc-1373-43d2-a158-07e8b2618c3b",
+                "name": "Fototessera personalizzata",
+                "price": 240,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "031e2553-bc5e-4da8-8160-13f4a366cab7",
+        "date": "2026-10-11",
+        "status": "Consegnato",
+        "total": 44,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "9c9d51f4-e81e-4945-a584-96aefd41525c",
+            "firstname": "Ernesto",
+            "lastname": "Moresi",
+            "phone": "+39 05787989973"
+        },
+        "PRODUCT": [
+            {
+                "pid": "4999f381-bd6d-4188-9f2d-b65245ee9781",
+                "name": "Purtroppo per donne",
+                "price": 743,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "5e2d60c5-17c9-4138-a502-9054ccf159f0",
+                "name": "Libro di storia",
+                "price": 759,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "551f7240-06a5-4216-88a3-181d342177ab",
+        "date": "2026-02-20",
+        "status": "Consegnato",
+        "total": 26,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "b4cc6d48-eae3-4c84-94c2-0156870e310c",
+            "firstname": "Giacomo",
+            "lastname": "Vendetti",
+            "phone": "07343707472"
+        },
+        "PRODUCT": [
+            {
+                "pid": "4ec8ae05-c47e-4dac-94de-d290d6656945",
+                "name": "Vestito in lino",
+                "price": 25,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "15a919e6-3ad1-4d90-ac55-e4ff30d578da",
+        "date": "2026-03-30",
+        "status": "Consegnato",
+        "total": 45,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "bcfac082-bc69-4f35-84ff-dbc149591ab2",
+            "firstname": "Bernardo",
+            "lastname": "Galilei",
+            "phone": "05237295258"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7ac3a721-fd06-4979-b87b-c111b3ecdca2",
+                "name": "Zaino impermeabile",
+                "price": 310,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "34ff1867-a8bf-4335-b920-ead3c5f383d0",
+        "date": "2026-01-30",
+        "status": "Spedito",
+        "total": 30,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "723aa88d-0103-4024-9839-e6f4ccdfc8a5",
+            "firstname": "Maura",
+            "lastname": "Ottino",
+            "phone": "351207254"
+        },
+        "PRODUCT": [
+            {
+                "pid": "2ef8b528-3f86-47ea-bf18-5c1c74573a2d",
+                "name": "Macchina da cucina",
+                "price": 423,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "57b64b7a-12f5-403d-8fdc-4e9b8380e2f2",
+                "name": "Sedia ergonomiche",
+                "price": 93,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "a9c42975-bfb2-43c3-92b2-9090d3839f1d",
+        "date": "2026-05-30",
+        "status": "Consegnato",
+        "total": 7,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "a077729d-5efa-43c4-82f4-628f12b14728",
+            "firstname": "Marcello",
+            "lastname": "Loredan",
+            "phone": "+39 05475329716"
+        },
+        "PRODUCT": [
+            {
+                "pid": "ca917921-a866-4a2e-b9d3-c730ec2ec5dc",
+                "name": "Set di kit per la cura della pelle",
+                "price": 221,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "63e44d98-342e-46de-a29c-1fa25f08a1a0",
+        "date": "2026-07-11",
+        "status": "Spedito",
+        "total": 22,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "5a45b797-ab0e-4492-9c5e-cc7c7028b777",
+            "firstname": "Nedda",
+            "lastname": "Argurio",
+            "phone": "37700884981"
+        },
+        "PRODUCT": [
+            {
+                "pid": "857b96cf-04b2-4c0f-953a-7c8dc436a6d0",
+                "name": "Macchina da cucina a gas",
+                "price": 486,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "596c3049-a4e1-43d7-8d54-be7d0b710732",
+        "date": "2026-11-01",
+        "status": "In elaborazione",
+        "total": 11,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "64942856-7fa1-4e9b-a5f5-4ca91e5d35c2",
+            "firstname": "Graziano",
+            "lastname": "Borgia",
+            "phone": "05418697593"
+        },
+        "PRODUCT": [
+            {
+                "pid": "2027448c-b109-4811-a9bc-0af6898457c6",
+                "name": "Telecamera di fascia alta",
+                "price": 538,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "0cb533d0-42f5-4bb1-8be9-5e4874748492",
+                "name": "Macchina da cucina a gas",
+                "price": 474,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "462d4119-8b36-4249-8932-0fb65f3f3a9b",
+        "date": "2026-09-24",
+        "status": "Consegnato",
+        "total": 38,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "42f364b3-4746-4898-b914-6e364fd20c4e",
+            "firstname": "Ludovica",
+            "lastname": "Fittipaldi",
+            "phone": "04318363183"
+        },
+        "PRODUCT": [
+            {
+                "pid": "4a0b8144-7001-4530-b639-c71b78ea894d",
+                "name": "Zaino impermeabile",
+                "price": 479,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "4dcd306c-faef-4640-a502-ceff56598b89",
+        "date": "2026-01-28",
+        "status": "In elaborazione",
+        "total": 20,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "d0599b83-d7c7-458b-a3d9-e05bd7b2a007",
+            "firstname": "Sandra",
+            "lastname": "Pacillo",
+            "phone": "3290176580"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7e9a5a29-52ce-4929-a716-40f4557ab1a4",
+                "name": "Cappuccio termico",
+                "price": 511,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "b629a72e-e08a-406a-9953-7fb6d38b44bd",
+        "date": "2026-07-27",
+        "status": "In elaborazione",
+        "total": 42,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "4d297724-3af5-47a6-b561-f8ed2269925a",
+            "firstname": "Guido",
+            "lastname": "Iannotti",
+            "phone": "+39 3793613334"
+        },
+        "PRODUCT": [
+            {
+                "pid": "6744418c-28db-47dc-9899-73930b5bb0e9",
+                "name": "Caffettiera espresso",
+                "price": 554,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "253c7e5b-1a34-4df2-8c79-701c0ab76c72",
+        "date": "2026-03-06",
+        "status": "Spedito",
+        "total": 32,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "a8bec32a-faf5-41f5-952f-bfdf24e0c1b6",
+            "firstname": "Caterina",
+            "lastname": "Pavone",
+            "phone": "+39 0423054187"
+        },
+        "PRODUCT": [
+            {
+                "pid": "ca917921-a866-4a2e-b9d3-c730ec2ec5dc",
+                "name": "Macchina da cucina",
+                "price": 144,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "8081900e-67a8-4c06-9a7c-2152b99c2063",
+        "date": "2026-08-18",
+        "status": "Spedito",
+        "total": 28,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "a4c21f81-f2d0-4435-989b-523b79c40612",
+            "firstname": "Nicola",
+            "lastname": "Pacelli",
+            "phone": "+39 0884032188"
+        },
+        "PRODUCT": [
+            {
+                "pid": "861ac49d-9a42-429a-9a09-e48710d7fcf3",
+                "name": "Bici da mountain",
+                "price": 701,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "b95c34e0-e875-49d1-83ec-55f27cc17da9",
+                "name": "Fototessera personalizzata",
+                "price": 322,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "7e95c1bf-b97e-4314-b6f2-f9d3d0fdb0d4",
+        "date": "2026-06-16",
+        "status": "Spedito",
+        "total": 14,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "723aa88d-0103-4024-9839-e6f4ccdfc8a5",
+            "firstname": "Giovanni",
+            "lastname": "Gremese",
+            "phone": "+39 0184931755"
+        },
+        "PRODUCT": [
+            {
+                "pid": "586336fd-5313-4d80-afdf-67c6dc3cc2e4",
+                "name": "Cuscino elettrostatico",
+                "price": 212,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "6bfb80a7-8cee-4b7c-8009-34085c489aac",
+        "date": "2026-10-27",
+        "status": "Consegnato",
+        "total": 5,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "8ad86f00-d326-46f7-9126-4f180081dc9c",
+            "firstname": "Renzo",
+            "lastname": "Caruso",
+            "phone": "05151336803"
+        },
+        "PRODUCT": [
+            {
+                "pid": "f402979f-6997-43eb-a61d-d50376f630bf",
+                "name": "Set di kit per la cura della pelle",
+                "price": 730,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "b9e0f12a-8d30-4e4a-bdf0-507affe10373",
+                "name": "T-shirt in cotone",
+                "price": 216,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "9fe17910-adf4-49bd-992b-874943ea56df",
+        "date": "2026-03-24",
+        "status": "Spedito",
+        "total": 33,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "bcfac082-bc69-4f35-84ff-dbc149591ab2",
+            "firstname": "Gino",
+            "lastname": "Cimarosa",
+            "phone": "0141655955"
+        },
+        "PRODUCT": [
+            {
+                "pid": "ba154b7d-9a1a-4965-a1d4-4546eb9f67de",
+                "name": "Caffè espresso con aromatizzanti",
+                "price": 37,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "82b54e65-1484-49d0-b75f-9f0a53da2eb4",
+                "name": "Purtroppo per donne",
+                "price": 685,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "0cae9e0c-dd08-4b0c-8999-5a74b9876756",
+        "date": "2026-05-12",
+        "status": "In elaborazione",
+        "total": 46,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "7c750c01-8409-4e5c-990f-0709b57e9de7",
+            "firstname": "Aurora",
+            "lastname": "Bottaro",
+            "phone": "0344501336"
+        },
+        "PRODUCT": [
+            {
+                "pid": "c857e4ea-7b85-4408-beb7-fb3c9026c2bb",
+                "name": "Cuscino elettrostatico",
+                "price": 160,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "bf1dfca2-84ba-4fbc-8ec2-6ed2226cefd3",
+        "date": "2026-01-18",
+        "status": "Consegnato",
+        "total": 38,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "83b88f52-0571-483b-a109-b5bde749eecb",
+            "firstname": "Renzo",
+            "lastname": "Scarlatti",
+            "phone": "077433311"
+        },
+        "PRODUCT": [
+            {
+                "pid": "00955d40-57ed-4e8d-bea6-724d1d7ca0d3",
+                "name": "Bici da mountain",
+                "price": 243,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "3da01c1b-b5c5-4217-a80d-9737bb225bc0",
+        "date": "2026-02-25",
+        "status": "Spedito",
+        "total": 35,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "61e01f4f-efbc-4af9-ba20-14698a8048b5",
+            "firstname": "Maria",
+            "lastname": "Baroffio",
+            "phone": "3894211336"
+        },
+        "PRODUCT": [
+            {
+                "pid": "eecd99d9-db8c-4ee5-bdaa-cae66b47beb8",
+                "name": "T-shirt in cotone",
+                "price": 464,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "45a742e7-275b-463a-a026-ea3f3e79c2af",
+        "date": "2026-06-21",
+        "status": "In elaborazione",
+        "total": 44,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "2b4b6b7b-af34-4c5e-b2b2-9eb9e8bc20f0",
+            "firstname": "Pierluigi",
+            "lastname": "Scaduto",
+            "phone": "+39 345675566"
+        },
+        "PRODUCT": [
+            {
+                "pid": "3d8e2348-d991-4f04-b18f-84d20f5d8ce4",
+                "name": "Sedia ergonomiche",
+                "price": 626,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "0a52dada-de98-4af6-b1ad-0250a2e8d814",
+        "date": "2026-10-02",
+        "status": "In elaborazione",
+        "total": 29,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "3d3a59a1-ec4f-4791-a2ed-38bf0804a689",
+            "firstname": "Gioacchino",
+            "lastname": "Gottardi",
+            "phone": "+39 371698440"
+        },
+        "PRODUCT": [
+            {
+                "pid": "9f787d47-40f2-498a-974e-af4ef558bedc",
+                "name": "Fototessera personalizzata",
+                "price": 416,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "a1c50428-8269-4aee-af2a-6b17e6f04ac2",
+        "date": "2026-06-08",
+        "status": "Consegnato",
+        "total": 20,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "668faa52-4164-4b84-bf74-7150e73f4d03",
+            "firstname": "Giulio",
+            "lastname": "Lombardi",
+            "phone": "0719787986"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7570c36d-39ae-4599-b3c5-7281d2c507ef",
+                "name": "Fototessera personalizzata",
+                "price": 581,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "66875b77-f39e-4ce2-981b-447fd611ed37",
+        "date": "2026-04-30",
+        "status": "Consegnato",
+        "total": 45,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "f36a6813-e071-487b-b5c0-99137ea04afa",
+            "firstname": "Tatiana",
+            "lastname": "Cilea",
+            "phone": "+39 0424395636"
+        },
+        "PRODUCT": [
+            {
+                "pid": "786a97ce-4b4b-4186-b1ac-6d279564d951",
+                "name": "Fototessera personalizzata",
+                "price": 658,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "ba154b7d-9a1a-4965-a1d4-4546eb9f67de",
+                "name": "Fototessera personalizzata",
+                "price": 108,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "521987e6-9ddd-4217-803b-32d089021900",
+        "date": "2026-02-04",
+        "status": "Spedito",
+        "total": 49,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "59f65716-6f00-410b-846b-e422fd7ed3d4",
+            "firstname": "Carmelo",
+            "lastname": "Comolli",
+            "phone": "+39 0776884294"
+        },
+        "PRODUCT": [
+            {
+                "pid": "a77aa54e-858c-4339-93c2-41af73bce942",
+                "name": "Libro di storia",
+                "price": 618,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            },
+            {
+                "pid": "eecd99d9-db8c-4ee5-bdaa-cae66b47beb8",
+                "name": "Caffettiera espresso",
+                "price": 358,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "237e4050-6878-40da-ad1d-8d244ab4ab3e",
+        "date": "2026-01-27",
+        "status": "Spedito",
+        "total": 24,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "3d3a59a1-ec4f-4791-a2ed-38bf0804a689",
+            "firstname": "Lilla",
+            "lastname": "Scalera",
+            "phone": "+39 032491826"
+        },
+        "PRODUCT": [
+            {
+                "pid": "9f787d47-40f2-498a-974e-af4ef558bedc",
+                "name": "Vestito in lino",
+                "price": 369,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "3be1259c-3e5f-4bfc-a84d-c734392fa731",
+        "date": "2026-03-01",
+        "status": "In elaborazione",
+        "total": 47,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "7ca86ac0-6864-4d91-b814-0d984373c0fc",
+            "firstname": "Dolores",
+            "lastname": "Tropea",
+            "phone": "05122578993"
+        },
+        "PRODUCT": [
+            {
+                "pid": "02f108de-3217-4a2e-b56f-2effe8938882",
+                "name": "Fototessera personalizzata",
+                "price": 397,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            },
+            {
+                "pid": "55deaba4-1470-42e6-9e82-8af910de2fd3",
+                "name": "Scarpe da ginnastica",
+                "price": 727,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "e8ed8536-3a56-4196-bd2e-d68270524d71",
+        "date": "2026-08-03",
+        "status": "Spedito",
+        "total": 45,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "93011d76-10ee-4d4b-9cd2-0ebc12bc2c68",
+            "firstname": "Giovanni",
+            "lastname": "Ferraris",
+            "phone": "+39 0491134690"
+        },
+        "PRODUCT": [
+            {
+                "pid": "1e28ed39-4c3e-4a1f-b22f-c12bdc9821fb",
+                "name": "Macchina da cucina",
+                "price": 587,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "9a30014e-ae6b-42f2-8ffe-4e0c982e7c62",
+        "date": "2026-07-06",
+        "status": "Consegnato",
+        "total": 46,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "936e7888-482b-426e-b603-c8a72db5f30e",
+            "firstname": "Mirco",
+            "lastname": "Polani",
+            "phone": "+39 05725211336"
+        },
+        "PRODUCT": [
+            {
+                "pid": "50c158be-a6f5-414d-b682-50e44807d578",
+                "name": "Tela di panno",
+                "price": 373,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "f0b30f9f-e04c-4ca4-995e-55e66675e1c5",
+                "name": "Sospensore wireless",
+                "price": 640,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "b554e854-2088-4d52-8824-93215b9d82ec",
+        "date": "2026-09-01",
+        "status": "Consegnato",
+        "total": 21,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "c432fbd4-99b5-4d58-9306-ca72bab4a4ea",
+            "firstname": "Benvenuto",
+            "lastname": "Brancaccio",
+            "phone": "320341818"
+        },
+        "PRODUCT": [
+            {
+                "pid": "a4994b68-c574-4f81-b740-fafd110d077d",
+                "name": "Fotocamera action",
+                "price": 454,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "9f787d47-40f2-498a-974e-af4ef558bedc",
+                "name": "Fotocamera action",
+                "price": 475,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "ece8695b-ac38-44a6-bdaf-cc1bc35d88a4",
+        "date": "2026-01-16",
+        "status": "Consegnato",
+        "total": 35,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "9a240ea8-0014-4353-bea3-918770df6cda",
+            "firstname": "Ciro",
+            "lastname": "Rubbia",
+            "phone": "+39 0481292137"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7570c36d-39ae-4599-b3c5-7281d2c507ef",
+                "name": "Tela di panno",
+                "price": 433,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "eae11016-4a41-4d69-8959-91452762556d",
+        "date": "2026-04-30",
+        "status": "In elaborazione",
+        "total": 7,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "59f65716-6f00-410b-846b-e422fd7ed3d4",
+            "firstname": "Ezio",
+            "lastname": "Villarosa",
+            "phone": "3626107227"
+        },
+        "PRODUCT": [
+            {
+                "pid": "f0b30f9f-e04c-4ca4-995e-55e66675e1c5",
+                "name": "Set di kit per la cura della pelle",
+                "price": 773,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            },
+            {
+                "pid": "88f0c4e3-7449-4288-adce-7c73836b77a2",
+                "name": "Sospensore wireless",
+                "price": 540,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "ca0a997e-0e5e-4faf-b110-e3c23372637b",
+        "date": "2026-01-15",
+        "status": "Spedito",
+        "total": 22,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "64942856-7fa1-4e9b-a5f5-4ca91e5d35c2",
+            "firstname": "Niccolò",
+            "lastname": "Serraglio",
+            "phone": "+39 0583747255"
+        },
+        "PRODUCT": [
+            {
+                "pid": "9f21d2ac-8f39-4ec3-9e15-15fcd7b0432a",
+                "name": "Libro di storia",
+                "price": 348,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "5e7db24f-f046-4d21-a743-291d9e333832",
+        "date": "2026-07-07",
+        "status": "Consegnato",
+        "total": 36,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "5c78be85-b1d6-44c5-94fa-dc4410f7c518",
+            "firstname": "Gianfrancesco",
+            "lastname": "Franzese",
+            "phone": "+39 0187805297"
+        },
+        "PRODUCT": [
+            {
+                "pid": "681811be-7116-4098-b8bb-2932093fda7e",
+                "name": "Caffettiera espresso",
+                "price": 281,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "77549ce1-616a-45a0-94f4-ce5b9b67c2a4",
+        "date": "2026-11-07",
+        "status": "Consegnato",
+        "total": 10,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "0efa14fd-6844-4058-90ef-040caa461bf7",
+            "firstname": "Tiziano",
+            "lastname": "Mantegazza",
+            "phone": "+39 034584136"
+        },
+        "PRODUCT": [
+            {
+                "pid": "2f8aa1bf-ffb5-4dda-87c8-964b1098a138",
+                "name": "Cuscino elettrostatico",
+                "price": 298,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "c261ed22-f846-4b44-8ab6-4e3a94c5a742",
+        "date": "2026-08-19",
+        "status": "Spedito",
+        "total": 45,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "3d3a59a1-ec4f-4791-a2ed-38bf0804a689",
+            "firstname": "Alessio",
+            "lastname": "Natta",
+            "phone": "+39 08657568229"
+        },
+        "PRODUCT": [
+            {
+                "pid": "57b64b7a-12f5-403d-8fdc-4e9b8380e2f2",
+                "name": "Set di cucina per bambini",
+                "price": 330,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "4a0b8144-7001-4530-b639-c71b78ea894d",
+                "name": "Cuscino di memory foam",
+                "price": 381,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "2a8b4f83-a2d6-4856-9f80-547b08d0757a",
+        "date": "2026-06-14",
+        "status": "In elaborazione",
+        "total": 34,
+        "payment": {
+            "method": "PayPal",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "cb61fbb1-dcf6-4014-9282-aeb9715a75cb",
+            "firstname": "Romolo",
+            "lastname": "Caracciolo",
+            "phone": "+39 0545167223"
+        },
+        "PRODUCT": [
+            {
+                "pid": "e57cbbb4-1658-4ffd-9b13-d819dfe26667",
+                "name": "Cuscino elettrostatico",
+                "price": 334,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "988141c9-5845-4aed-802f-5ccfc1a8a2fd",
+        "date": "2026-03-21",
+        "status": "Consegnato",
+        "total": 2,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "4d297724-3af5-47a6-b561-f8ed2269925a",
+            "firstname": "Francesco",
+            "lastname": "Agazzi",
+            "phone": "+39 041632820"
+        },
+        "PRODUCT": [
+            {
+                "pid": "89f85fdc-5a26-4e33-a2d5-da5b190a5a06",
+                "name": "Smartphone 5G",
+                "price": 469,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "e5fcde6b-4e21-4763-8153-72b15aafd99e",
+        "date": "2026-09-20",
+        "status": "In elaborazione",
+        "total": 46,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "9c9d51f4-e81e-4945-a584-96aefd41525c",
+            "firstname": "Antonina",
+            "lastname": "Pavanello",
+            "phone": "+39 032237157"
+        },
+        "PRODUCT": [
+            {
+                "pid": "e28dbcc9-1ea0-42a4-aa48-571bdf7cad57",
+                "name": "Vestito in lino",
+                "price": 578,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "6bb792e4-d657-44b1-b4b8-f3eedf861502",
+        "date": "2026-05-25",
+        "status": "In elaborazione",
+        "total": 10,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "555b41f4-1c2a-46a9-87f0-44b5225624b9",
+            "firstname": "Mariana",
+            "lastname": "Maccanelli",
+            "phone": "+39 35057154318"
+        },
+        "PRODUCT": [
+            {
+                "pid": "6744418c-28db-47dc-9899-73930b5bb0e9",
+                "name": "Tela di panno",
+                "price": 660,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "eb323967-ffa4-4f7e-bdfd-3a0c53b4b13d",
+                "name": "Zaino impermeabile",
+                "price": 715,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "ef1bfa26-aa94-4877-a6a0-e85cabb424b8",
+        "date": "2026-04-26",
+        "status": "Spedito",
+        "total": 50,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "247eed59-c68f-47d9-932b-5393b0d73fd2",
+            "firstname": "Girolamo",
+            "lastname": "Mannoia",
+            "phone": "+39 016161963"
+        },
+        "PRODUCT": [
+            {
+                "pid": "858bc67c-027c-4c68-a713-46f71e60cc05",
+                "name": "Sospensore wireless",
+                "price": 598,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "5f3f1bc7-3fcc-4fe8-bfa4-8816ebf71b4d",
+        "date": "2026-06-25",
+        "status": "Spedito",
+        "total": 40,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "2414b7e5-25fc-458c-9852-297e1320dca1",
+            "firstname": "Michela",
+            "lastname": "Bernardi",
+            "phone": "0587377730"
+        },
+        "PRODUCT": [
+            {
+                "pid": "57b64b7a-12f5-403d-8fdc-4e9b8380e2f2",
+                "name": "Sospensore wireless",
+                "price": 627,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "fad70468-7038-4d4e-947d-6f05143e993b",
+        "date": "2026-04-09",
+        "status": "In elaborazione",
+        "total": 26,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "a2d43ef9-bc38-469f-9095-566260d113e7",
+            "firstname": "Piermaria",
+            "lastname": "Jacuzzi",
+            "phone": "012263999"
+        },
+        "PRODUCT": [
+            {
+                "pid": "357b6ca5-58f2-4d44-b7ce-2f2212831c47",
+                "name": "Sedia ergonomiche",
+                "price": 367,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "264c9f8b-7685-4e47-9658-931ab7c7c022",
+        "date": "2026-07-08",
+        "status": "In elaborazione",
+        "total": 25,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "c4f1bdb9-2319-49de-9194-8b72b8902f45",
+            "firstname": "Cristina",
+            "lastname": "Fagotto",
+            "phone": "+39 0461740792"
+        },
+        "PRODUCT": [
+            {
+                "pid": "ca917921-a866-4a2e-b9d3-c730ec2ec5dc",
+                "name": "Scarpe da ginnastica",
+                "price": 219,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "f2a4b440-9f39-4e5b-b7bc-faea4aa09b17",
+        "date": "2026-02-13",
+        "status": "In elaborazione",
+        "total": 11,
+        "payment": {
+            "method": "Bonifico",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "fe51f115-2404-49e9-88ea-e02762fb3d67",
+            "firstname": "Rita",
+            "lastname": "Bongiorno",
+            "phone": "+39 32897403326"
+        },
+        "PRODUCT": [
+            {
+                "pid": "ff84f5bd-4e39-4446-bbdc-461b8539ac3c",
+                "name": "Cappuccio termico",
+                "price": 781,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "ffb2e5e7-4532-4ee1-be07-543e87d023e9",
+        "date": "2026-09-02",
+        "status": "In elaborazione",
+        "total": 6,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "84bc7311-870c-44dc-8fee-35ba27d1294d",
+            "firstname": "Luciana",
+            "lastname": "Muratori",
+            "phone": "040965708"
+        },
+        "PRODUCT": [
+            {
+                "pid": "513cb0a2-32aa-460f-9668-c947828feea7",
+                "name": "Caffettiera espresso",
+                "price": 766,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "f6840bba-38e0-4721-b5a2-74c8f7b38e36",
+        "date": "2026-04-22",
+        "status": "Spedito",
+        "total": 4,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "fe51f115-2404-49e9-88ea-e02762fb3d67",
+            "firstname": "Berenice",
+            "lastname": "Ginese",
+            "phone": "+39 3854229599"
+        },
+        "PRODUCT": [
+            {
+                "pid": "cf95d915-427e-4a1c-bebd-8706cb3a6091",
+                "name": "Caffettiera espresso",
+                "price": 288,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "b2f4ae68-3ff9-4053-a042-78b9fb7477e1",
+        "date": "2026-07-02",
+        "status": "Consegnato",
+        "total": 39,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "41e11428-99ce-4cac-acd4-211e9ce19d39",
+            "firstname": "Giulio",
+            "lastname": "Pirandello",
+            "phone": "+39 09199598135"
+        },
+        "PRODUCT": [
+            {
+                "pid": "11c9ff9c-3bb3-4b03-913c-5c000ce91265",
+                "name": "Macchina da cucina a gas",
+                "price": 358,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "6942f9e2-0313-4ec1-9c4e-2a20ec420ba6",
+        "date": "2026-09-28",
+        "status": "Consegnato",
+        "total": 27,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "8d27d788-1314-45c8-8068-d8f20fcf784a",
+            "firstname": "Marina",
+            "lastname": "Carriera",
+            "phone": "093264127"
+        },
+        "PRODUCT": [
+            {
+                "pid": "57b64b7a-12f5-403d-8fdc-4e9b8380e2f2",
+                "name": "Cappuccio termico",
+                "price": 311,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "dd9a1d61-2cf7-45a8-be9e-89ca20a1a66f",
+        "date": "2026-01-26",
+        "status": "Consegnato",
+        "total": 29,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "cc1e75fd-1c5e-44df-9d9b-e5deaac7797d",
+            "firstname": "Federica",
+            "lastname": "Serraglio",
+            "phone": "+39 0657192757"
+        },
+        "PRODUCT": [
+            {
+                "pid": "f402979f-6997-43eb-a61d-d50376f630bf",
+                "name": "Vestito in lino",
+                "price": 29,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": "e7f5970d-43ca-4c52-aeb2-5e8ad1179b2b",
+        "date": "2026-05-07",
+        "status": "Spedito",
+        "total": 30,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "ae06e815-ad28-4e09-9467-392975839712",
+            "firstname": "Ermes",
+            "lastname": "Segrè",
+            "phone": "33177387720"
+        },
+        "PRODUCT": [
+            {
+                "pid": "82b54e65-1484-49d0-b75f-9f0a53da2eb4",
+                "name": "Cappuccio termico",
+                "price": 598,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "84ad9bbf-681e-425a-8b86-0a4876fcf92b",
+        "date": "2026-06-11",
+        "status": "Spedito",
+        "total": 42,
+        "payment": {
+            "method": "PayPal",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "b7350286-be5c-4fef-9967-f00cab7be0d4",
+            "firstname": "Alberto",
+            "lastname": "Cendron",
+            "phone": "+39 3488044759"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7570c36d-39ae-4599-b3c5-7281d2c507ef",
+                "name": "Tela di panno",
+                "price": 786,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "b07b5504-3d4e-42a9-80b1-641ea5eeded3",
+        "date": "2026-09-12",
+        "status": "Spedito",
+        "total": 19,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "936e7888-482b-426e-b603-c8a72db5f30e",
+            "firstname": "Gianfranco",
+            "lastname": "Bonomo",
+            "phone": "034530953"
+        },
+        "PRODUCT": [
+            {
+                "pid": "80e8381b-8766-48ef-b004-76a0e7fc68b4",
+                "name": "Macchina da cucina",
+                "price": 634,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            },
+            {
+                "pid": "89f85fdc-5a26-4e33-a2d5-da5b190a5a06",
+                "name": "Libro di storia",
+                "price": 559,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "45c763b8-16d5-45f9-a018-d4c117059fd8",
+        "date": "2026-05-22",
+        "status": "Spedito",
+        "total": 6,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "9a240ea8-0014-4353-bea3-918770df6cda",
+            "firstname": "Guarino",
+            "lastname": "Berrè",
+            "phone": "0565141373"
+        },
+        "PRODUCT": [
+            {
+                "pid": "f402979f-6997-43eb-a61d-d50376f630bf",
+                "name": "Macchina da cucina",
+                "price": 231,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "0ed5ea78-6e7b-4647-8b41-c203b2d6eba3",
+        "date": "2026-10-07",
+        "status": "Consegnato",
+        "total": 1,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Consegnato"
+        },
+        "CUSTOMER": {
+            "cid": "a077729d-5efa-43c4-82f4-628f12b14728",
+            "firstname": "Costantino",
+            "lastname": "Russo",
+            "phone": "0789645117"
+        },
+        "PRODUCT": [
+            {
+                "pid": "0cb533d0-42f5-4bb1-8be9-5e4874748492",
+                "name": "Sedia ergonomiche",
+                "price": 742,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "e04e9bfa-9af3-4df3-a97b-84a8113cbac4",
+        "date": "2026-10-05",
+        "status": "Consegnato",
+        "total": 23,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "fe51f115-2404-49e9-88ea-e02762fb3d67",
+            "firstname": "Fredo",
+            "lastname": "Cardano",
+            "phone": "0365129808"
+        },
+        "PRODUCT": [
+            {
+                "pid": "c9f28b0c-b933-449e-84cb-bd65886ec00b",
+                "name": "Macchina da cucina a gas",
+                "price": 729,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "a2ebdba8-c268-423a-9a68-fcf8426f30d6",
+        "date": "2026-04-09",
+        "status": "In elaborazione",
+        "total": 39,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "f7108a4f-686d-46ea-99cf-010d5188f704",
+            "firstname": "Amalia",
+            "lastname": "Falier",
+            "phone": "03527740518"
+        },
+        "PRODUCT": [
+            {
+                "pid": "c9de33ad-8ba8-4b64-9065-6f486e88069e",
+                "name": "Bici da mountain",
+                "price": 690,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "79f9d953-b2ab-44dd-be80-33b306934bb9",
+        "date": "2026-04-06",
+        "status": "Spedito",
+        "total": 45,
+        "payment": {
+            "method": "Carta di Credito",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "1f97478d-5fc3-48db-99c4-9fb965685b0b",
+            "firstname": "Victoria",
+            "lastname": "Tarchetti",
+            "phone": "38546270160"
+        },
+        "PRODUCT": [
+            {
+                "pid": "19591345-1f70-45ae-9ccf-010fb0cba3d3",
+                "name": "Tela di panno",
+                "price": 643,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            },
+            {
+                "pid": "b9e0f12a-8d30-4e4a-bdf0-507affe10373",
+                "name": "Libro di storia",
+                "price": 320,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "09ad3373-0813-42e0-b846-5981d9be3b0c",
+        "date": "2026-08-28",
+        "status": "In elaborazione",
+        "total": 50,
+        "payment": {
+            "method": "PayPal",
+            "status": "Spedito"
+        },
+        "CUSTOMER": {
+            "cid": "edf04b4b-275b-4800-8a9d-96e3a2b711aa",
+            "firstname": "Stefano",
+            "lastname": "Nosiglia",
+            "phone": "+39 3311430542"
+        },
+        "PRODUCT": [
+            {
+                "pid": "9f787d47-40f2-498a-974e-af4ef558bedc",
+                "name": "Bici da mountain",
+                "price": 315,
+                "INCLUDE": {
+                    "ordered_quantity": 2
+                }
+            }
+        ]
+    },
+    {
+        "_id": "9b206c9a-18dd-41b4-aa28-94d987dacdea",
+        "date": "2026-04-18",
+        "status": "Consegnato",
+        "total": 46,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "bcfac082-bc69-4f35-84ff-dbc149591ab2",
+            "firstname": "Gianfranco",
+            "lastname": "Buscetta",
+            "phone": "+39 058512096"
+        },
+        "PRODUCT": [
+            {
+                "pid": "c9f28b0c-b933-449e-84cb-bd65886ec00b",
+                "name": "Macchina da cucina a gas",
+                "price": 255,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "eb323967-ffa4-4f7e-bdfd-3a0c53b4b13d",
+                "name": "Vestito in lino",
+                "price": 191,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": "9ebe138b-e95e-441e-a0ac-4dda59a56090",
+        "date": "2026-10-03",
+        "status": "Consegnato",
+        "total": 14,
+        "payment": {
+            "method": "Bonifico",
+            "status": "In elaborazione"
+        },
+        "CUSTOMER": {
+            "cid": "a4c21f81-f2d0-4435-989b-523b79c40612",
+            "firstname": "Allegra",
+            "lastname": "Anguissola",
+            "phone": "+39 05415600617"
+        },
+        "PRODUCT": [
+            {
+                "pid": "7570c36d-39ae-4599-b3c5-7281d2c507ef",
+                "name": "Cappuccio termico",
+                "price": 214,
+                "INCLUDE": {
+                    "ordered_quantity": 1
+                }
+            },
+            {
+                "pid": "417992fa-986e-4db7-9245-8e506a4e76a4",
+                "name": "Libro di storia",
+                "price": 430,
+                "INCLUDE": {
+                    "ordered_quantity": 3
+                }
+            }
+        ]
+    }
+]
